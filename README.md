@@ -1,6 +1,6 @@
 ![Baner](/Banner2.png) 
 
-<h1 align="center">Hi! I am Eneas.</h1>
+<h1 align="center">Hi! I'm Eneas.</h1>
 <p align="center"><b>I am a Frontend (Backend in process) Developer, Grapgic Designer and Architect <br>Currently working as a freelance developer</b></p>
 
 <p align="center">
