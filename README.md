@@ -1,7 +1,7 @@
 ![Baner](/Banner2.png) 
 
 <h1 align="center">Hi! I'm Eneas.</h1>
-<p align="center"><b>I am a Frontend (Backend in process) Developer, Grapgic Designer and Architect <br>Currently working as a freelance developer</b></p>
+<p align="center"><b>I Fullsatck Developer, Grapgic Designer and Architect <br>Currently working as a freelance developer</b></p>
 
 <p align="center">
 - PASSIONATE
@@ -27,6 +27,9 @@ From the union of art, design and the ability to create things from scratch was 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>&nbsp;&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>&nbsp;&nbsp; 
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp; 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/typescript/typescript-original.svg" alt="git" width="40" height="40"/>&nbsp;&nbsp; 
+  <img src="https://seeklogo.com/images/A/angular-icon-logo-5FC0C40EAC-seeklogo.com.png" alt="git" width="40" height="40"/>&nbsp;&nbsp; 
+  <img src="https://astro.js.org/astro.png" alt="git" width="40" height="40"/>&nbsp;&nbsp; 
 </p>
 
 <br>
